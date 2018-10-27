@@ -1,8 +1,6 @@
 QSearch Readme
 ====================
 
-![alt text](https://drive.google.com/file/d/1hNIiESrXDwDEn3CJS-16BYJVr494dWSX/view?usp=sharing)
-
 Running QSearch
 -----------------------------
 
