@@ -1,4 +1,4 @@
-QSearch Readme
+QSearch README
 ====================
 
 Running QSearch
